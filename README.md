@@ -7,3 +7,4 @@ https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/housing.ipynb
 https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_5.ipynb
 https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_06ipynb
 https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/mean_squared_error.ipynb
+https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/svm.ipynb
