@@ -1,10 +1,10 @@
 #23BCSBTB27-28
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/types_of_lists.ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/Array.ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/A*Algorithm
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/AI_game.ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/housing.ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_5.ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_06ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/mean_squared_error.ipynb
-https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/svm.ipynb
+#lab 1(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/types_of_lists.ipynb)
+#lab 2(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/Array.ipynb)
+#lab 3(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/A*Algorithm)
+#lab 4(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/AI_game.ipynb)
+#lab (https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/housing.ipynb)
+#lab 5(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_5.ipynb)
+#lab 6(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_06ipynb)
+#lab 7(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/mean_squared_error.ipynb)
+#lab 8(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/svm.ipynb)
