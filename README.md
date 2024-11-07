@@ -8,3 +8,4 @@
 #lab 6(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/LAB_06ipynb)
 #lab 7(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/mean_squared_error.ipynb)
 #lab 8(https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/svm.ipynb)
+#exam (https://github.com/RUSHIKETHANA28/23CSBTB27-28/blob/main/exam.ipynb)
